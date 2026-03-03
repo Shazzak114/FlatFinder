@@ -1,0 +1,6 @@
+/config/config.php
+/public_html/cache/*
+!/public_html/cache/.gitkeep
+/public_html/storage/*
+!/public_html/storage/.htaccess
+!/public_html/storage/images/**/.gitkeep
